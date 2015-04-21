@@ -30,11 +30,30 @@ class ViewController: UIViewController {
         let constantConversionFactorDogYears = 7.0
         
         
-        dogYearsLabel.text = "Dog Years -> " + "\(humanYearsInDouble * constantConversionFactorDogYears)"
-        
+        dogYearsLabel.text = "Your dog is " + "\(humanYearsInDouble * constantConversionFactorDogYears) years old"
         
     }
     
+    @IBAction func convertToRealDogYearsButtonPressed(sender: UIButton) {
+        
+        var humanYearsInDouble = Double((humanYearsTextField.text as NSString).doubleValue)
+        
+        let olderConversionFactorConstant = 4.0
+        let youngerConversionFactorConstant = 10.5
+        
+        var realDogYears = 0.0
+        
+        if humanYearsInDouble <= 2.0 {
+            realDogYears = humanYearsInDouble * youngerConversionFactorConstant
+        }
+        else
+        {
+            realDogYears = 2 * youngerConversionFactorConstant + (humanYearsInDouble - 2.0) * olderConversionFactorConstant
+        }
+        
+        
+        dogYearsLabel.text = "Your dog is " + "\(realDogYears) years old."
+    }
 
 }
 

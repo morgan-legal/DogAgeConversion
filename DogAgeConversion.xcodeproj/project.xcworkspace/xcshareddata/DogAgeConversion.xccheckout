@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>104D2C91-C2A0-4C5F-8669-DD1F17E5CB4B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DogAgeConversion</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F1D72AC0240A153855F9B35AF61221E828F948B4</key>
+		<string>https://github.com/morgan-legal/DogAgeConversion.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DogAgeConversion.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F1D72AC0240A153855F9B35AF61221E828F948B4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/morgan-legal/DogAgeConversion.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F1D72AC0240A153855F9B35AF61221E828F948B4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F1D72AC0240A153855F9B35AF61221E828F948B4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DogAgeConversion</string>
+		</dict>
+	</array>
+</dict>
+</plist>
