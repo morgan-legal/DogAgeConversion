@@ -13,6 +13,7 @@
 		58F69BF51AE69E1D002F5784 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58F69BF41AE69E1D002F5784 /* Images.xcassets */; };
 		58F69BF81AE69E1D002F5784 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 58F69BF61AE69E1D002F5784 /* LaunchScreen.xib */; };
 		58F69C041AE69E1D002F5784 /* DogAgeConversionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58F69C031AE69E1D002F5784 /* DogAgeConversionTests.swift */; };
+		58F69C0E1AE69E4D002F5784 /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 58F69C0D1AE69E4D002F5784 /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		58F69BFD1AE69E1D002F5784 /* DogAgeConversionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DogAgeConversionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		58F69C021AE69E1D002F5784 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		58F69C031AE69E1D002F5784 /* DogAgeConversionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogAgeConversionTests.swift; sourceTree = "<group>"; };
+		58F69C0D1AE69E4D002F5784 /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		58F69BEB1AE69E1D002F5784 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				58F69C0D1AE69E4D002F5784 /* AgeOfLaika.jpg */,
 				58F69BEC1AE69E1D002F5784 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				58F69BF31AE69E1D002F5784 /* Main.storyboard in Resources */,
+				58F69C0E1AE69E4D002F5784 /* AgeOfLaika.jpg in Resources */,
 				58F69BF81AE69E1D002F5784 /* LaunchScreen.xib in Resources */,
 				58F69BF51AE69E1D002F5784 /* Images.xcassets in Resources */,
 			);
